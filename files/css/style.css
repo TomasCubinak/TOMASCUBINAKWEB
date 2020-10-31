@@ -703,3 +703,7 @@ label {
     margin-bottom: 20px;
   }
 }
+
+.img-responsive {
+  height: 100%;
+}
